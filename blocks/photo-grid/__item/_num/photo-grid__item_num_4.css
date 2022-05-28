@@ -1,0 +1,26 @@
+.photo-grid__item_num_4{
+  background-size: cover;
+  width: 100%;
+  object-fit: contain;
+  height: 213px;
+  margin: 0;
+  background-image: url(../../../../images/photo-grid-sochi.jpg);
+}
+
+@media screen and (max-width: 1140px) {
+  .photo-grid__item_num_4{
+    height: 225px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .photo-grid__item_num_4{
+    height: 264px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .photo-grid__item_num_4{
+    height: 216px;
+  }
+}
