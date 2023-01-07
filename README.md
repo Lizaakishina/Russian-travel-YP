@@ -19,4 +19,4 @@
 
 ### Где посмотреть
 
-А вот здесь → https://lizaakishina.github.io/russian-travel/
+А вот здесь → https://lizaakishina.github.io/Russian-travel-YP/
